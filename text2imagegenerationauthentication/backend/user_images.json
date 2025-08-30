@@ -1,0 +1,18 @@
+{
+  "1ecd8fad-846a-4225-924f-e01862fac008": [
+    {
+      "id": "ae285a57-db05-4134-887c-c6181c2c2e4e",
+      "filename": "generated_20250830_124152_5fe6ac3e.png",
+      "prompt": "a scenery of mountains",
+      "timestamp": "2025-08-30T12:41:54.416679",
+      "options": {
+        "width": 512,
+        "height": 512,
+        "steps": 30,
+        "seed": -1,
+        "negativePrompt": "low quality"
+      },
+      "url": "/api/images/1ecd8fad-846a-4225-924f-e01862fac008/generated_20250830_124152_5fe6ac3e.png"
+    }
+  ]
+}
